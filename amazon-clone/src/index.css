@@ -1,6 +1,19 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
+* {
   margin: 0;
-  padding: 0;
-  background-color: #fff; /* optional */
+}
+
+body {
+  background-color: rgb(234, 237, 237);
+  margin: 0;
+  font-family: -apple-system, BlinkMaxSystemFont,
+  "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Ssans", "Helvetice Neue", 
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 
+  "Courier New", monospace;
 }
