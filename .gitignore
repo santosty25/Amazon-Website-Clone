@@ -1,2 +1,4 @@
 node_modules
 /amazon-clone/src/firebase.jsx
+/amazon-clone/.firebase
+/amazon-clone/dist
